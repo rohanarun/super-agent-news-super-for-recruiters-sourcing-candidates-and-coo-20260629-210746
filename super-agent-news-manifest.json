@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[forbes.com](https://www.forbes.com/sites/bernardmarr/2026/06/27/gemini-3-5-flash-computer-use-everything-we-know-so-far/)",
+    "[venturebeat.com](https://venturebeat.com/ai/contrario-launches-the-case-for-pairing-ai-agents-with-human-recruiters-instead-of-replacing-them/)",
+    "[g2.com](https://learn.g2.com/video-interviewing-tools)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=2.4_lines; AIDA=pass; bento_density=grid-auto-flow:dense; competitors_sweep=pass; CTA_contrast=pass",
+  "generated_at": "2026-06-29T21:07:53.985601+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page for recruiters who live inside LinkedIn, ATSs, calendars, and inboxes. The page ties recent reporting on computer\u2011use AI agents to recruiting workflows, then positions Super as the sharper alternative for repeated sourcing and scheduling work thanks to its reusable computer-use cache."
+}
